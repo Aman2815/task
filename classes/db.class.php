@@ -3,7 +3,7 @@ class DB{
 
     const Host = "127.0.0.1";
     CONST User = "root";
-    CONST Pass = "root";
+    CONST Pass = "";
     CONST DB = "product";
     protected $conn;
 
